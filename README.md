@@ -1,2 +1,4 @@
 # hello-world
-I am interested in data science
+
+hi, there, I am interested in data science and eager to learn more. 
+Hopefully, everything works just fine. 
